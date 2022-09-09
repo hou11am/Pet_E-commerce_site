@@ -5,7 +5,7 @@ import { Badge } from "@mui/material";
 import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 const Container = styled.div`
   height: 50px;
-  background-color: black;
+  background-color: #ffc7c7;
 `;
 
 const Wrapper = styled.div`
@@ -32,7 +32,7 @@ const Language = styled.span`
 const SearchContainer = styled.div`
   height: 25px;
   border-radius: 10px;
-  background-color: white;
+  background-color: #fbffc6;
   display: flex;
   align-items: center;
   margin-left: 20px;
@@ -43,7 +43,7 @@ const SearchInput = styled.input`
   margin-left: 10px;
 `;
 const Center = styled.div`
-  color: white;
+  color: #ffffff;
   flex: 1;
   text-align: center;
 `;
