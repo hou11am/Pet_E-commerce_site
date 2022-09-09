@@ -8,14 +8,14 @@ export const sliderItems = [
   },
   {
     id: 2,
-    img: "https://i.ibb.co/HgxfJdD/pngegg-2.png",
+    img: "https://i.ibb.co/HTTM1vm/pngegg-2.png",
     title: "Make your Dog Happy",
     desc: "We have All kind of Food and products for your Dog to make him Happy and Halty !",
     bg: "fcf1ed",
   },
   {
     id: 3,
-    img: "https://i.ibb.co/q7CBLM1/pngegg-3.png",
+    img: "https://i.ibb.co/jHqL010/pngegg-3.png",
     title: "Make your Canari Happy",
     desc: "We have All kind of Food and products for your Canari to make him Happy and Halty !",
     bg: "fbf0f4",
